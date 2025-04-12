@@ -1,0 +1,11 @@
+body {
+  background: #fffdf6;
+  font-family: 'Inter', sans-serif;
+}
+
+#checkout {
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.08);
+  padding: 32px;
+}
